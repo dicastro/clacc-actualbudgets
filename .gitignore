@@ -1,0 +1,13 @@
+.idea
+.env
+
+actual-data/*
+!actual-data/.gitkeep
+
+backups
+
+imports/*
+!imports/2024/csv/.gitkeep
+!imports/2024/raw/.gitkeep
+!imports/2025/csv/.gitkeep
+!imports/2025/raw/.gitkeep
